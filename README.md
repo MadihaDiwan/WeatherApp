@@ -53,3 +53,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![ssHot](https://github.com/MadihaDiwan/WeatherApp/assets/108568884/a3bbea52-f41a-417e-a934-7aa434e1e2d7)
+
+![ssCold](https://github.com/MadihaDiwan/WeatherApp/assets/108568884/cee7b445-131d-4795-8887-1035a8ac7322)
